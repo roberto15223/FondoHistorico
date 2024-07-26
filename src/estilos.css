@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+h2{
+    color: grey;
+    font-size: 22px;
+    font-weight: 200; /* Especifica el grosor de la fuente como "light" */
+}
+a{
+    color: gray;
+}
+.catalog{
+    width: 80%; /* Ancho del contenedor */
+    margin: 0 auto; /* Centrar horizontalmente */
+    margin-top: 1.5cm;
+}
+.header{
+    border-bottom: 1px solid grey;
+}
+.table-responsive{
+    margin-top: 0.5cm;
+}
+h6{
+    color: #e8e8e8;
+    font-size: 14px;
+}
+.breadcrumb-item{
+    text-decoration: none;
+}
+.navigation{
+    text-align: center;
+    
+}
+.topnav-bar{
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Ajusta el espacio entre los botones*/
+}
